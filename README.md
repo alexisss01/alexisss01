@@ -23,13 +23,17 @@ I like building at the intersection of **useful interfaces, clear data behaviour
 
 ## Tech I work with
 
-**AI-assisted coding:** ![OpenAI](https://img.shields.io/badge/-Codex%20%2F%20OpenAI-412991?logo=openai&logoColor=white)
+**AI-assisted building:** ![OpenAI](https://img.shields.io/badge/-Codex%20%2F%20OpenAI-412991?logo=openai&logoColor=white)
 
-**Data and automation:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=black)
+**Web and browser tools:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Chrome Extensions](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?logo=googlechrome&logoColor=white)
 
-**Browser and workflow tools:** ![Chrome Extensions](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?logo=googlechrome&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+**Data and automation:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![VBA](https://img.shields.io/badge/-Excel%20%2F%20VBA-217346?logo=microsoftexcel&logoColor=white)
 
-**Patterns I use:** local storage, JSON/CSV import and export, browser extensions, local servers, validation rules, backup and recovery flows, lightweight testing and responsive interfaces.
+**Storage and workflow tools:** ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+**Analytics and visualisation:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+
+**Patterns I use:** local storage, JSON/CSV import and export, local servers, validation rules, backup and recovery flows, data cleaning, dashboard reporting, lightweight testing and responsive interfaces.
 
 ## How I build
 
